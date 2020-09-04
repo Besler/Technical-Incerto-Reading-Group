@@ -6,9 +6,9 @@ Reading Group for NNT's "Statistical Consequences of Fat Tails".
 
 Weekly meetings and weekly readings will be held over Zoom.
 
-| **Time**     | Thursdays, 8 pm MT                                |
-|--------------|---------------------------------------------------|
-| **Location** | https://ucalgary.zoom.us/j/2634212463 (FatTailed) |
+| **Time**     | Thursdays, 8 pm MT                                                                         |
+|--------------|--------------------------------------------------------------------------------------------|
+| **Location** | [https://ucalgary.zoom.us/j/2634212463](https://ucalgary.zoom.us/j/2634212463) (FatTailed) |
 
 If you want to be added to the Signal channel, contact Bryce or David directly.
 
