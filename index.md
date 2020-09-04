@@ -6,7 +6,7 @@ Reading Group for NNT's "Statistical Consequences of Fat Tails".
 
 Weekly meetings and weekly readings will be held over Zoom.
 
-| **Time**     | Thursdays, 8 pm MT                                                                         |
+| **Time**     | Wednesday, 8 pm MT                                                                         |
 |--------------|--------------------------------------------------------------------------------------------|
 | **Location** | [https://ucalgary.zoom.us/j/2634212463](https://ucalgary.zoom.us/j/2634212463) (FatTailed) |
 
@@ -24,13 +24,13 @@ The first 10 chapters will be explored. If this bears fruit, the remaining chapt
 
 | Date  | Chapter                                                 | Presenter       |
 |-------|---------------------------------------------------------|-----------------|
-| 09.17 | 3: A non-technical overview                             | Bryce, David    |
-| 09.24 | 4: Univariate fat tails, level 1, finite moments        | Bryce           |
-| 10.01 | 5: Level 2: subexponentials and power laws              | David           |
-| 10.08 | 6: Thick tails in higher dimensions                     | Bryce           |
-| 10.15 | 7: Limit distributions, a consolidation                 | David           |
-| 10.22 | 8: How much data do you need?                           | Bryce           |
-| 10.29 | 9: Extreme values and hidden risk                       | David           |
-| 11.05 | 10: "it is what it is"                                  | Bryce           |
-| 11.12 | 11: Probability calibration calibration under fat tails | David           |
-| 11.19 | 12: Election predictions as martingales                 | Bryce           |
+| 09.16 | 3: A non-technical overview                             | Bryce, David    |
+| 09.23 | 4: Univariate fat tails, level 1, finite moments        | Bryce           |
+| 09.30 | 5: Level 2: subexponentials and power laws              | David           |
+| 10.07 | 6: Thick tails in higher dimensions                     | Bryce           |
+| 10.14 | 7: Limit distributions, a consolidation                 | David           |
+| 10.21 | 8: How much data do you need?                           | Bryce           |
+| 10.28 | 9: Extreme values and hidden risk                       | David           |
+| 11.04 | 10: "it is what it is"                                  | Bryce           |
+| 11.11 | 11: Probability calibration calibration under fat tails | David           |
+| 11.18 | 12: Election predictions as martingales                 | Bryce           |
