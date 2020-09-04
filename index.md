@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Statistical Consequences of Fat Tails - Reading Group
 
-You can use the [editor on GitHub](https://github.com/Besler/techincal-incerto.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Reading Group for NNT's "Statistical Consequences of Fat Tails".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Organization
 
-### Markdown
+Weekly meetings and weekly readings will be held over Zoom.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| **Time**     | Thursdays, 8 pm MT                                |
+|--------------|---------------------------------------------------|
+| **Location** | https://ucalgary.zoom.us/j/2634212463 (FatTailed) |
 
-```markdown
-Syntax highlighted code block
+If you want to be added to the Signal channel, contact Bryce or David directly.
 
-# Header 1
-## Header 2
-### Header 3
+Meetings will be informal and discussion based. Either Bryce or David will bring
+~3 points of discussion from the weeks reading focused on understanding the technicals,
+relation to the real world, or contrast to Taleb's public appearances.
 
-- Bulleted
-- List
+A digital copy of the book is available on [arXiv](https://arxiv.org/abs/2001.10488).
 
-1. Numbered
-2. List
+### Readings
 
-**Bold** and _Italic_ and `Code` text
+The first 10 chapters will be explored. If this bears fruit, the remaining chapters will be added at a later date.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Besler/techincal-incerto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Date  | Chapter                                                 | Presenter       |
+|-------|---------------------------------------------------------|-----------------|
+| 09.17 | 3: A non-technical overview                             | Bryce, David    |
+| 09.24 | 4: Univariate fat tails, level 1, finite moments        | Bryce           |
+| 10.01 | 5: Level 2: subexponentials and power laws              | David           |
+| 10.08 | 6: Thick tails in higher dimensions                     | Bryce           |
+| 10.15 | 7: Limit distributions, a consolidation                 | David           |
+| 10.22 | 8: How much data do you need?                           | Bryce           |
+| 10.29 | 9: Extreme values and hidden risk                       | David           |
+| 11.05 | 10: "it is what it is"                                  | Bryce           |
+| 11.12 | 11: Probability calibration calibration under fat tails | David           |
+| 11.19 | 12: Election predictions as martingales                 | Bryce           |
